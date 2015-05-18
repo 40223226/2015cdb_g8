@@ -1,6 +1,6 @@
 # Summary
 
-* [2015cdb_g7](README.md)
+* [2015cdb_g8](README.md)
    * [組員](menber.md)
    * [開會紀錄](record.md)
 * [2015cdbg7midreport](midreport.md)
