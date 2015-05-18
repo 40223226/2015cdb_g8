@@ -2,7 +2,6 @@
 
 * [2015cdb_g8](README.md)
    * [組員](menber.md)
-   * [開會紀錄](record.md)
 * [2015cdbg8midreport](midreport.md)
    * [40223226](40223226.md)
    * [40223249](40223249.md)
